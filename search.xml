@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>VK WorkMail - 俄罗斯域名邮箱</title>
+    <url>/Sviins/2024/04/08/VK-WorkMail-%E4%BF%84%E7%BD%97%E6%96%AF%E5%9F%9F%E5%90%8D%E9%82%AE%E7%AE%B1/</url>
+    <content><![CDATA[<img src="/Sviins/2024/04/08/VK-WorkMail-%E4%BF%84%E7%BD%97%E6%96%AF%E5%9F%9F%E5%90%8D%E9%82%AE%E7%AE%B1/image-10.png" class="" title="alt text">
+
+<p>VK WorkMail是俄罗斯互联网巨头VK集团旗下Mail.ru免费邮箱的企业版。VK WorkMail免费企业域名邮箱可以使用顶级域名，也可以使用二级域名（免费二级域名也能用），每个账号最多可添加10个域名，每个域名可绑定5个别名域名。VK WorkMail不限制邮箱大小，邮箱数量每个域名限300个，支持Catch-ALL，普通附件限25MB，超大附件可达2GB，支持POP3、SMTP、IMAP收发邮件，有Android、IOS应用APP，支持添加SPF、SKIM记录，可避免你发送的邮件被拒或进入垃圾箱。</p>
+<img src="/Sviins/2024/04/08/VK-WorkMail-%E4%BF%84%E7%BD%97%E6%96%AF%E5%9F%9F%E5%90%8D%E9%82%AE%E7%AE%B1/image.png" class="" title="alt text">
+
+<h1 id="申请流程"><a href="#申请流程" class="headerlink" title="申请流程"></a>申请流程</h1><ol>
+<li>访问 <a href="https://biz.mail.ru/mail">官网</a> , 点击黑色”Подключить”注册按钮</li>
+</ol>
+<img src="/Sviins/2024/04/08/VK-WorkMail-%E4%BF%84%E7%BD%97%E6%96%AF%E5%9F%9F%E5%90%8D%E9%82%AE%E7%AE%B1/image-1.png" class="" title="alt text">
+
+<ol start="2">
+<li>使用你拥有的验证方式来登录</li>
+</ol>
+<img src="/Sviins/2024/04/08/VK-WorkMail-%E4%BF%84%E7%BD%97%E6%96%AF%E5%9F%9F%E5%90%8D%E9%82%AE%E7%AE%B1/image-2.png" class="" title="alt text">
+
+<ol start="3">
+<li>再次点击 <strong>步骤1</strong> 中的黑色按钮, 并在弹出界面里填写域名信息.<br>填完点击下方 <strong>蓝色按钮</strong></li>
+</ol>
+<img src="/Sviins/2024/04/08/VK-WorkMail-%E4%BF%84%E7%BD%97%E6%96%AF%E5%9F%9F%E5%90%8D%E9%82%AE%E7%AE%B1/image-3.png" class="" title="alt text">
+
+<ol start="4">
+<li>选择域名验证方式<br>每种方式需要的操作步骤在页面都会有详细说明<br>没有服务器的只能用后面两种DNS相关的了 <sup>据说前两种通过验证会更快一些</sup></li>
+</ol>
+<img src="/Sviins/2024/04/08/VK-WorkMail-%E4%BF%84%E7%BD%97%E6%96%AF%E5%9F%9F%E5%90%8D%E9%82%AE%E7%AE%B1/image-4.png" class="" title="alt text">
+
+<ol start="5">
+<li>通过验证之后会进入下图界面<br>选不选随便, 可以跳过</li>
+</ol>
+<img src="/Sviins/2024/04/08/VK-WorkMail-%E4%BF%84%E7%BD%97%E6%96%AF%E5%9F%9F%E5%90%8D%E9%82%AE%E7%AE%B1/image-5.png" class="" title="alt text">
+
+<ol start="6">
+<li>按图示添加 MX 解析<br>添加完成后, 点击下方按钮检查是否已被确认</li>
+</ol>
+<img src="/Sviins/2024/04/08/VK-WorkMail-%E4%BF%84%E7%BD%97%E6%96%AF%E5%9F%9F%E5%90%8D%E9%82%AE%E7%AE%B1/image-6.png" class="" title="alt text">
+
+<ol start="7">
+<li>验证通过之后, 可以添加 <em>SPF</em> 和 <em>DKIM</em> 记录<br>这样能防止你的发件被拒收或判定为垃圾邮件</li>
+</ol>
+<img src="/Sviins/2024/04/08/VK-WorkMail-%E4%BF%84%E7%BD%97%E6%96%AF%E5%9F%9F%E5%90%8D%E9%82%AE%E7%AE%B1/image-7.png" class="" title="alt text">
+
+<ol start="8">
+<li>最后就可以根据自己的需要创建邮箱帐户了</li>
+</ol>
+<img src="/Sviins/2024/04/08/VK-WorkMail-%E4%BF%84%E7%BD%97%E6%96%AF%E5%9F%9F%E5%90%8D%E9%82%AE%E7%AE%B1/image-8.png" class="" title="alt text">
+
+<h2 id="Catch-all"><a href="#Catch-all" class="headerlink" title="Catch-all"></a>Catch-all</h2><p>图示位置可以设置 Catch-all  </p>
+<img src="/Sviins/2024/04/08/VK-WorkMail-%E4%BF%84%E7%BD%97%E6%96%AF%E5%9F%9F%E5%90%8D%E9%82%AE%E7%AE%B1/image-9.png" class="" title="alt text">
+
+<h1 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h1><p>登录地址可以访问 <a href="https://e.mail.ru/">https://e.mail.ru</a><br>也可以使用 <a href="https://biz.mail.ru/login/*%E4%BD%A0%E6%B7%BB%E5%8A%A0%E7%9A%84%E5%9F%9F%E5%90%8D">https://biz.mail.ru/login/*你添加的域名</a>*<br>另外也可以将你的域名添加一条 CNAME 解析, mail 解析至 biz.mail.ru , 这样你就可以用 mail.<em>你的域名</em> 来访问登入了</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>一些资源</title>
+    <url>/Sviins/2024/04/07/%E4%B8%80%E4%BA%9B%E8%B5%84%E6%BA%90/</url>
+    <content><![CDATA[<h1 id="神器机场"><a href="#神器机场" class="headerlink" title="神器机场"></a><a href="https://t.me/shenseven_bot?start=AMZDewsR">神器机场</a></h1><p>通过机器人可以直接开通试用套餐 - <strong>白嫖神器</strong><br>500G流量使用一个月<br>他们家之前有不限时的套餐, 不过现在好像没有了 <sup>或者节日会开, 有兴趣的可以不定期检查下</sup></p>
+<h1 id="找片机器人"><a href="#找片机器人" class="headerlink" title="找片机器人"></a><a href="https://t.me/tumblrace_bot?start=invite582426683">找片机器人</a></h1><p>发 GIF 给它就可以帮你找出处的机器人<br>试了下确实有不少可以立即告诉你出处<br>虽然说网上有很多热心的老司机<br>但是当你兴致来了的时候, 它说不定是你最坚实的后盾呢?</p>
+<h1 id="草榴社区"><a href="#草榴社区" class="headerlink" title="草榴社区"></a><a href="https://t66y.com/index.php?u=129116&ext=4fe64">草榴社区</a></h1><p>这个网站只能说 dddd , 比较老牌的华语成人社区了吧<br>当然它好像很久没有开放注册了, 所以如果想要账号, 得有邀请码<br>不过好在不注册, 我们也能浏览大部分区域</p>
+<h1 id="机场-xfltd"><a href="#机场-xfltd" class="headerlink" title="机场 - xfltd"></a><a href="https://xfltd.org/#/register?code=7d3rHvoV">机场 - xfltd</a></h1><p>他们家我主要用来防失联, 10元买 120G 应该还算不错</p>
+]]></content>
+  </entry>
+</search>
