@@ -50,8 +50,8 @@
 <img data-src="/Sviins/2024/04/08/VK-WorkMail-%E4%BF%84%E7%BD%97%E6%96%AF%E5%9F%9F%E5%90%8D%E9%82%AE%E7%AE%B1/image-9.png" class="" title="alt text"></p>
 <h1 id="使用"><a class="anchor" href="#使用">#</a> 使用</h1>
 <p>登录地址可以访问 <span class="exturl" data-url="aHR0cHM6Ly9lLm1haWwucnU=">https://e.mail.ru</span><br />
- 也可以使用 <span class="exturl" data-url="aHR0cHM6Ly9iaXoubWFpbC5ydS9sb2dpbi8=">https://biz.mail.ru/login/</span><em> 你添加的域名</em><br />
-另外也可以将你的域名添加一条 CNAME 解析，mail 解析至 <span class="exturl" data-url="aHR0cDovL2Jpei5tYWlsLnJ1">biz.mail.ru</span> , 这样你就可以用 mail.<em> 你的域名</em> 来访问登入了</p>
+ 也可以使用 <span class="exturl" data-url="aHR0cHM6Ly9iaXoubWFpbC5ydS9sb2dpbi8qJUU0JUJEJUEwJUU2JUI3JUJCJUU1JThBJUEwJUU3JTlBJTg0JUU1JTlGJTlGJUU1JTkwJThE">https://biz.mail.ru/login/* 你添加的域名</span> *<br />
+ 另外也可以将你的域名添加一条 CNAME 解析，mail 解析至 <span class="exturl" data-url="aHR0cDovL2Jpei5tYWlsLnJ1">biz.mail.ru</span> , 这样你就可以用 mail.<em> 你的域名</em> 来访问登入了</p>
 ]]></content>
   </entry>
   <entry>

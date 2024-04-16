@@ -60,8 +60,8 @@
 &lt;img data-src=&#34;/Sviins/2024/04/08/VK-WorkMail-%E4%BF%84%E7%BD%97%E6%96%AF%E5%9F%9F%E5%90%8D%E9%82%AE%E7%AE%B1/image-9.png&#34; class=&#34;&#34; title=&#34;alt text&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;使用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#使用&#34;&gt;#&lt;/a&gt; 使用&lt;/h1&gt;
 &lt;p&gt;登录地址可以访问 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9lLm1haWwucnU=&#34;&gt;https://e.mail.ru&lt;/span&gt;&lt;br /&gt;
- 也可以使用 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9iaXoubWFpbC5ydS9sb2dpbi8=&#34;&gt;https://biz.mail.ru/login/&lt;/span&gt;&lt;em&gt; 你添加的域名&lt;/em&gt;&lt;br /&gt;
-另外也可以将你的域名添加一条 CNAME 解析，mail 解析至 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2Jpei5tYWlsLnJ1&#34;&gt;biz.mail.ru&lt;/span&gt; , 这样你就可以用 mail.&lt;em&gt; 你的域名&lt;/em&gt; 来访问登入了&lt;/p&gt;
+ 也可以使用 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9iaXoubWFpbC5ydS9sb2dpbi8qJUU0JUJEJUEwJUU2JUI3JUJCJUU1JThBJUEwJUU3JTlBJTg0JUU1JTlGJTlGJUU1JTkwJThE&#34;&gt;https://biz.mail.ru/login/* 你添加的域名&lt;/span&gt; *&lt;br /&gt;
+ 另外也可以将你的域名添加一条 CNAME 解析，mail 解析至 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2Jpei5tYWlsLnJ1&#34;&gt;biz.mail.ru&lt;/span&gt; , 这样你就可以用 mail.&lt;em&gt; 你的域名&lt;/em&gt; 来访问登入了&lt;/p&gt;
 </content>
         <updated>2024-04-08T06:30:43.000Z</updated>
     </entry>
